@@ -1,0 +1,26 @@
+{
+	"ID": "2",
+	"Name": "Nguyễn văn A",
+	"Gender": "0",
+	"Hairstyle": "2",
+	"Color": [
+		"Red",
+		"Blue"
+	],
+	"Eyes": "Black",
+	"Children": [
+		{
+			"ID": "45",
+			"Name": "Nguyễn văn B",
+			"Gender": "1",
+			"Hairstyle": "2",
+			"Color": [
+				"Red",
+				"Yellow"
+			],
+			"Eyes": "Black",
+			"Children": [
+			]
+		}
+	]
+}
